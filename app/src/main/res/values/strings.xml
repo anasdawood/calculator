@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Calculation</string>
+    <string name="app_name">calculator</string>
+    <string name="final_exam">Final Exam</string>
+    <string name="current_grade">Current Grade (%)</string>
+    <string name="grade_goal">Grade Goal (%)</string>
+    <string name="weight_of_final">Weight of Final (%)</string>
 </resources>
